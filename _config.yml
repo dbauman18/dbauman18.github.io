@@ -1,13 +1,18 @@
-theme: beautiful-jekyll
+theme: minima
 title: Daniel Bauman
 description: PhD Student in Computational Mathematics at Stanford University
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-navbar-links:
-  Blog: "blog"
-  About Me: "index"
-  Publications: "publications"
+
+# Explicitly control which pages show up in the navigation bar
+header_pages:
+  - index.md
+  - publications.md
+  - blog/index.md
+
