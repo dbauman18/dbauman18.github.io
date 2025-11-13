@@ -1,6 +1,5 @@
-theme: minima
+theme: beautiful-jekyll
 title: Daniel Bauman
-contact_email: djbauman@stanford.edu
 description: PhD Student in Computational Mathematics at Stanford University
 plugins:
   - jekyll-feed
@@ -8,3 +7,7 @@ plugins:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+navbar-links:
+  Blog: "blog"
+  About Me: "index"
+  Publications: "publications"
