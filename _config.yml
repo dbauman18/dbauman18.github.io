@@ -14,7 +14,7 @@ kramdown:
 # Explicitly control which pages show up in the navigation bar
 header_pages:
   - index.md
-  - publications.md
+  - research.md
   - blog/index.md
 
 paginate: 3
