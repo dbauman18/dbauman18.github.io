@@ -1,6 +1,6 @@
 theme: minima
 title: Daniel Bauman
-author: Daniel Bauman
+contact_email: djbauman@stanford.edu
 description: PhD Student in Computational Mathematics at Stanford University
 plugins:
   - jekyll-feed
