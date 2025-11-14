@@ -5,7 +5,7 @@ date: 2024-02-02
 tags: [research, phylogenetics]
 ---
 
-![header](../assets/images/tree_of_life_0.jpg "AI-generated image of the tree of life")
+![header](/assets/images/tree_of_life_0.jpg "AI-generated image of the tree of life")
 
 Phylogenetic trees describe the ways in which the evolutionary tree of life branches out to create the immense diversity which exists today. Contained within these structures is an entire history of the past: what existed when, which species did the things alive today descend from, and how long ago did these events all occur. Along with understanding the evolutionary history of organisms (or genes, or viruses, or the many other applications of phylogenetic trees), studying the trees can shed light onto the driving processes which created this diversity. I will first diverge a minute to try to emphasize what sorts of processes may be interesting and relevant.
 
