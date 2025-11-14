@@ -5,7 +5,7 @@ title: "About me"
 
 # Hi, my name is Daniel Bauman.
 
-I'm a third PhD student in the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/) at Stanford University, coadvised by [Noah Rosenberg](https://rosenberglab.stanford.edu/) and [Ben Good](https://bgoodlab.github.io/). My current research focuses on **statistics of phylogenetic tree shape** and **population genetics in metapopulations**. Broadly, I am fascinated by questions at the intersection of mathematics with evolution and ecology. 
+I'm a third year PhD student in the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/) at Stanford University, coadvised by [Noah Rosenberg](https://rosenberglab.stanford.edu/) and [Ben Good](https://bgoodlab.github.io/). My current research focuses on **statistics of phylogenetic tree shape** and **population genetics in metapopulations**. Broadly, I am fascinated by questions at the intersection of mathematics with evolution and ecology. 
 
 ![headshot](assets/images/headshot.jpg "Lake District, England")
 
