@@ -15,3 +15,16 @@ You can find out more about my [projects](publications.md) and read my [blog](bl
 
 You can contact me best by email: [djbauman@stanford.edu](mailto:djbauman@stanford.edu)
 
+Math tests
+
+$x = 1$ 
+
+
+$$p^2 - 3$$
+
+$$
+\begin{align}
+x &= 3 - 1 \\
+&= 2
+\end{align}
+$$
