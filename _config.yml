@@ -19,3 +19,7 @@ header_pages:
 
 paginate: 3
 paginate_path: "/blog/page:num"
+
+# Add custom head content
+include:
+  - _includes/head-custom.html
